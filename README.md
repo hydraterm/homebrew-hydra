@@ -1,2 +1,7 @@
-# homebrew-hydra
-Homebrew tap for Hydra secure remote terminal
+# Homebrew Hydra
+
+Install Hydra for macOS:
+
+```sh
+brew install --cask hydraterm/hydra/hydraterms
+```
