@@ -1,6 +1,6 @@
 cask "hydraterms" do
-  version "0.2.13"
-  sha256 "5d253af7c7f0e3a62d1b20db4097297466672e5a4d9b07f3b41b5fd8bbe5b9e9"
+  version "0.2.14"
+  sha256 "5153c3c8ae4a3db1138f2dc41317197c8d3faf7c5c951c1d4d5f194fc5a82426"
 
   url "https://hydraterms.com/downloads/releases/#{version}/Hydra-macOS.dmg"
   name "Hydra"
